@@ -17,7 +17,7 @@ Finally, I’ll add these new visualizations to the two I created in this module
 ### Top Starting Locations
 ![Top_Starting_Locations](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Top_Starting_Locations.PNG)
 
-The most popular places for Citibike customers to begin their journeys in New York City are:
+In New York City, the most common sites for Citibike clients to start their travels are:
 1. Pershing Square
 2. Broadway
 3. Tribecca Bridge
@@ -25,33 +25,36 @@ The most popular places for Citibike customers to begin their journeys in New Yo
 ### Top Ending Locations
 ![Top_Ending_Locations](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Top_Ending_Locations.PNG)
 
-The most popular places for Citibike customers to end their journeys in New York City are the same as starting locations.
+In New York City, the most popular places for Citibike customers to end their journeys are the same places where they started.
 
 ## Checkout Times for Users
 ![Checkout_Times_for_Users](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Checkout_Times_for_Users.PNG)
 
-Peak usage for NYC Citibikes occurs at 5 minutes.  146,752 bikes were checked out at 5 minutes for August 2019.  33 Citibikes were checked out for at least 2 hours and 59 minutes.
-
+The peak usage time for NYC Citibikes is 5 minutes. In August 2019, 146,752 bikes were checked out in 5 minutes. For at least 2 hours and 59 minutes, 33 Citibikes were checked out.
 
 ### Checkout Times by Gender
 ![Checkout_Times_by_Gender](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Checkout_Times_by_Gender.PNG)
 
-Males were the primary user of Citibikes in August 2019.  There were 34,151 female Citibike users at peak usage, which is 68.4% less than male rideres.
-
+In August 2019, males were the most frequent users of Citibikes. At peak usage, there were 34,151 female Citibike users, which is 68.4 percent less than male riders.
 
 ### Trips by Weekday
 ![Trips_by_Weekday](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Trips_by_Weekday.PNG)
 
-Citibikes are used the least between 12 AM and 5 AM Sundays through Saturdays.  This may be a good time for Citibikes to perform maintenance on their bikes.
-
+Between the hours of 12 a.m. and 5 a.m. on Sundays through Saturdays, Citibikes are utilized the least.
 
 ### Trips by Gender (Weekday per Hour)
 ![Trips_by_Gender_(Weekday_per_Hour)](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Trips_by_Gender_(Weekday_per_Hour).PNG)
 
-Citibikes are popular amongst males and females around 8 AM, 5 PM, and 6 PM Monday through Friday.  Usage is popular on Saturdays between 9 AM and 7 PM for male and femal riders.  On Sundays, male and female riders appear to use Citibikes the most between 11 AM and 5 PM.
-
+Men and women ride Citibikes at 8 a.m., 5 p.m., and 6 p.m. Monday through Friday. Saturdays between 9 a.m. and 7 p.m. are popular for both male and female bikers. Between 11 a.m. and 5 p.m. on Sundays, male and female riders tend to utilize Citibikes the most.
 
 ### User Trips by Gender by Weekday
 ![User_Trips_by_Gender_by_Weekday](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/User_Trips_by_Gender_by_Weekday.PNG)
 
-In August 2019, Thursdays are the most popular days to use Citibikes amongst male and female subscribers.  Sundays were the most popular days to use Citibikes for male and female customers.
+Thursdays are the most popular days to utilize Citibikes among male and female subscribers. For both male and female clients, Sundays were the most popular days to utilize Citibikes.
+
+## Summary
+In August 2019, males were the predominant users of Citibikes in New York City. On Thursdays, the most rides were taken, and the starting and finishing points of Citibike excursions were the same. More research is required to establish whether Citibikes is a good match for Des Moines, Iowa.
+
+Analysts should map population growth between Des Moines and New York City to see if Citibikes is a suitable fit for Des Moines, Iowa. The two cities' population totals and growth rates might be compared using publicly accessible census data. If Des Moines' population grows faster than New York City's, the Citibikes system may be a fantastic fit for the city.
+
+Correlating weather data between Des Moines and New York City is another visualization that may aid investors in determining if Citibikes are a good fit for Des Moines. If the temperatures and weather are similar, it will be easier for investors to see why Citibikes is a good fit for Des Moines, Iowa.
