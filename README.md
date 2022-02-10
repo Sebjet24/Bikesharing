@@ -29,7 +29,7 @@ In New York City, the most common sites for Citibike clients to start their trav
 
 In New York City, the most popular places for Citibike customers to end their journeys are the same places where they started.
 
-## Checkout Times for Users
+### Checkout Times for Users
 
 ![Checkout_Times_for_Users](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Checkout_Times_for_Users.PNG)
 
