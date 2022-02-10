@@ -12,7 +12,7 @@ Finally, I’ll add these new visualizations to the two I created in this module
 
 ## Results:
 
-[link to dashboard](https://public.tableau.com/app/profile/sebastian.scholl/viz/NYC_CitiBike_Challenge_Trip_Analysis_16444545557670/NYCCitibikeStory?publish=yes "Sebastian's NYC Citibike Analysis")
+[Sebastian's NYC Citibike Analysis](https://public.tableau.com/app/profile/sebastian.scholl/viz/NYC_CitiBike_Challenge_Trip_Analysis_16444545557670/NYCCitibikeStory?publish=yes "Sebastian's NYC Citibike Analysis")
 
 ### Top Starting Locations
 ![Top_Starting_Locations](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Top_Starting_Locations.PNG)
