@@ -15,6 +15,7 @@ Link to Tableau:
 [Sebastian's NYC Citibike Analysis](https://public.tableau.com/app/profile/sebastian.scholl/viz/NYC_CitiBike_Challenge_Trip_Analysis_16444545557670/NYCCitibikeStory?publish=yes "Sebastian's NYC Citibike Analysis")
 
 ### Top Starting Locations
+
 ![Top_Starting_Locations](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Top_Starting_Locations.PNG)
 
 In New York City, the most common sites for Citibike clients to start their travels are:
@@ -23,31 +24,37 @@ In New York City, the most common sites for Citibike clients to start their trav
 3. Tribecca Bridge
 
 ### Top Ending Locations
+
 ![Top_Ending_Locations](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Top_Ending_Locations.PNG)
 
 In New York City, the most popular places for Citibike customers to end their journeys are the same places where they started.
 
 ## Checkout Times for Users
+
 ![Checkout_Times_for_Users](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Checkout_Times_for_Users.PNG)
 
 The peak usage time for NYC Citibikes is 5 minutes. In August 2019, 146,752 bikes were checked out in 5 minutes. For at least 2 hours and 59 minutes, 33 Citibikes were checked out.
 
 ### Checkout Times by Gender
+
 ![Checkout_Times_by_Gender](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Checkout_Times_by_Gender.PNG)
 
 In August 2019, males were the most frequent users of Citibikes. At peak usage, there were 34,151 female Citibike users, which is 68.4 percent less than male riders.
 
 ### Trips by Weekday
+
 ![Trips_by_Weekday](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Trips_by_Weekday.PNG)
 
 Between the hours of 12 a.m. and 5 a.m. on Sundays through Saturdays, Citibikes are utilized the least.
 
 ### Trips by Gender (Weekday per Hour)
+
 ![Trips_by_Gender_(Weekday_per_Hour)](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/Trips_by_Gender_(Weekday_per_Hour).PNG)
 
 Men and women ride Citibikes at 8 a.m., 5 p.m., and 6 p.m. Monday through Friday. Saturdays between 9 a.m. and 7 p.m. are popular for both male and female bikers. Between 11 a.m. and 5 p.m. on Sundays, male and female riders tend to utilize Citibikes the most.
 
 ### User Trips by Gender by Weekday
+
 ![User_Trips_by_Gender_by_Weekday](https://github.com/Sebjet24/Bikesharing/blob/main/Resources/User_Trips_by_Gender_by_Weekday.PNG)
 
 Thursdays are the most popular days to utilize Citibikes among male and female subscribers. For both male and female clients, Sundays were the most popular days to utilize Citibikes.
