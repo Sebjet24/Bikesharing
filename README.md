@@ -11,7 +11,7 @@ There is still some more work to be done to convince investors that a bike-shari
 Finally, I’ll add these new visualizations to the two I created in this module for my final presentation and analysis to pitch to investors.
 
 ## Results:
-
+Link to Tableau:
 [Sebastian's NYC Citibike Analysis](https://public.tableau.com/app/profile/sebastian.scholl/viz/NYC_CitiBike_Challenge_Trip_Analysis_16444545557670/NYCCitibikeStory?publish=yes "Sebastian's NYC Citibike Analysis")
 
 ### Top Starting Locations
@@ -52,7 +52,7 @@ Men and women ride Citibikes at 8 a.m., 5 p.m., and 6 p.m. Monday through Friday
 
 Thursdays are the most popular days to utilize Citibikes among male and female subscribers. For both male and female clients, Sundays were the most popular days to utilize Citibikes.
 
-## Summary
+## Summary:
 In August 2019, males were the predominant users of Citibikes in New York City. On Thursdays, the most rides were taken, and the starting and finishing points of Citibike excursions were the same. More research is required to establish whether Citibikes is a good match for Des Moines, Iowa.
 
 Analysts should map population growth between Des Moines and New York City to see if Citibikes is a suitable fit for Des Moines, Iowa. The two cities' population totals and growth rates might be compared using publicly accessible census data. If Des Moines' population grows faster than New York City's, the Citibikes system may be a fantastic fit for the city.
